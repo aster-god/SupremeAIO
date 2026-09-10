@@ -1,13 +1,13 @@
 # SupremeAIO
 All in one checkout Tool request and browser based with multi-threading to automate checking out products on supremenewyork. **PLEASE RUN BOT AS ADMINISTRATOR**
 
-![alt text](https://github.com/DrExpresso/SupremeAIO/blob/master/template.PNG)
+![alt text](https://github.com/aster-god/SupremeAIO/blob/master/template.PNG)
 
-<img src="https://raw.githubusercontent.com/DrExpresso/SupremeAIO/master/supremebot.gif?raw=true" width="auto" height="auto" />
+<img src="https://raw.githubusercontent.com/aster-god/SupremeAIO/master/supremebot.gif?raw=true" width="auto" height="auto" />
 
 
 
-[DOWNLOAD LINK](https://github.com/DrExpresso/SupremeAIO/releases)
+[DOWNLOAD LINK](https://github.com/aster-god/SupremeAIO/releases)
 
 [DOCUMENTATION LINK](https://drive.google.com/file/d/15v1hTzGvnKBL-A-k81Tk3EI5DmECQIs0/view?usp=sharing)
 
@@ -51,7 +51,7 @@ All in one checkout Tool request and browser based with multi-threading to autom
 - [ ] **Quick Tasks**
 
 # Install
-> - Download and **run the exe file as Administrator**, installer will automatically extract and install files to your local C drive in program files. Application is 32 bit. If you need any help contact my [Twitter](https://twitter.com/DrExpresso).
+> - Download and **run the exe file as Administrator**, installer will automatically extract and install files to your local C drive in program files. Application is 32 bit. If you need any help contact my [Twitter](https://twitter.com/aster-god).
 
 # Usage
 [DOCUMENTATION LINK](https://drive.google.com/file/d/15v1hTzGvnKBL-A-k81Tk3EI5DmECQIs0/view?usp=sharing)
@@ -84,7 +84,7 @@ Requirements:
 
 ```
 # Clone this repository
-$ git clone https://github.com/DrExpresso/SupremeAIO.git
+$ git clone https://github.com/aster-god/SupremeAIO.git
 
 # Go into the repository
 $ cd SupremeAIO 
@@ -100,7 +100,7 @@ $ java -cp bin MainApp.java
 ```
 The MIT License (MIT)
 
-Copyright (c) 2018 DrExpresso
+Copyright (c) 2018 aster-god
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
